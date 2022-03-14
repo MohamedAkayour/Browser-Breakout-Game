@@ -1,4 +1,4 @@
-# breakout
+# Breakout minigame
 
 A simple demonstration of a beakout game powered by javascript and html&css.
 
